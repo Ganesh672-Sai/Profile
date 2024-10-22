@@ -4,7 +4,13 @@
 
 <h3 align="center">From VNRVJIET, 3 Year</h3>
 
- - 🔭 I’m currently working in VNRVJIET
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=afreen0410" alt="afreen0410" />
+  </a> 
+</p>
+
+ - 🔭 I’m studying working in VNRVJIET
  - 📫 How to reach me **muduganesh49@gmail.com**
 
 
@@ -17,3 +23,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_star_672" height="30" width="40" />
   </a>
 </p>
+
+
