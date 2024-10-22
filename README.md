@@ -13,7 +13,8 @@
   <a href="https://linkedin.com/in/lightningflash" target="blank">
     <img align="center" src="https://www.linkedin.com/in/mudu-ganesh-01b99825a/" alt="lightningflash" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/sai_star_672/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afreen0410" height="30" width="40" />
+   <a href="https://instagram.com/in/lightningflash" target="blank">
+    <img align="center" src="https://www.instagram.com/sai_star_672/" alt="lightningflash" height="30" width="40" />
   </a>
+
 </p>
